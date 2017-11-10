@@ -26,6 +26,4 @@ function makeInt(a) {
   return a=a
 }
 
-function makeInt(2328) {
-  return 2328=0
-}
+=
