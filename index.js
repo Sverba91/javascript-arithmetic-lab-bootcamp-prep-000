@@ -24,5 +24,5 @@ function dec(a) {
 
 function makeInt(a) {
   return a=a
-  return a=0
+
 }
