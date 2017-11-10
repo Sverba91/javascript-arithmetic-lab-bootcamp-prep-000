@@ -26,7 +26,7 @@ function makeInt(a) {
   return a=a
 }
 
-function assume base 10 (a) {
+function parseInt (a) {
   return a=0
 }
 }
