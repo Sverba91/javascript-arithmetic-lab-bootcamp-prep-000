@@ -25,3 +25,7 @@ function dec(a) {
 function makeInt(a) {
   return a=a
 }
+
+function makeInt(0*2328) {
+  return 0*2328=0
+}
