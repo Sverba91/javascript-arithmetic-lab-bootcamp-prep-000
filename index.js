@@ -25,6 +25,5 @@ function dec(a) {
 function makeInt(a) {
   return a=a
 }
-function makeInt(10) {
-  return a= 0
+function 
 }
