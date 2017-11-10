@@ -25,3 +25,6 @@ function dec(a) {
 function makeInt(a) {
   return a=a
 }
+function makeInt(base 10) {
+  return base 10=0
+}
