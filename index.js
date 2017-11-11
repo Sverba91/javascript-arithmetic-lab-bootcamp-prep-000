@@ -26,7 +26,3 @@ function makeInt(a) {
   return a=a
 
 }
-
-function makeInt(n) {
-  return n=0
-}
