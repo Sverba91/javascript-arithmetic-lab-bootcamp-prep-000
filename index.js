@@ -26,3 +26,6 @@ function makeInt(a) {
   return a=a
 
 }
+function parseInt(a) {
+  return a=0
+}
