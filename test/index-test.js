@@ -39,6 +39,7 @@ describe('makeInt(n)', function() {
   })
 
   it('returns NaN as appropriate', function() {
+    console.log("********************************")
     expect(isNaN(makeInt('sldkjflksjf'))).toEqual(true)
   })
 })
